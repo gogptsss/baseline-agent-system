@@ -1,29 +1,26 @@
-# BASELINE AGENT SYSTEM
+# Baseline Agent System | 定锚系统
 
-**Anchor on System, Not on Luck.**
+**Anchor on System, Not on Luck. / 定锚，不是靠运气，是靠系统。**
 
-A baseline-first Agent System: Consistency, Reversibility, Recursive Iteration, Zero Reset, RETUNERBILITY.
+> Stop Resetting. Start Retuning. / 不再重置，开始微调。
 
-> Less is More. Slow is Fast. Dumb is Smart.
+### 4 Principles / 4 原则
 
-## Why
-Most agents fail not because the model is weak, but because there is no anchor. One brilliant prompt today, drift tomorrow.
+Consistency 一致性 | Reversibility 可回滚 | Retunability 可再调 | Zero Reset 零重置
 
-## What it does
-- L0 Baseline: goal, acceptance criteria, red lines - read-only
-- Loop: Trigger -> Execute -> Check -> Feedback -> Adjust -> Rollback/Return/Retune
-- Executor != Checker (separate agents)
-- Snapshot + Rollback + Zero Reset
+### 3 Layers / 3 层
 
-## Quick Start
-```bash
-npx wrangler pages deploy .
-```
+- Personal 个人层: 3 Tasks, Fixed Template
+- Team 团队层: Common + Personal  
+- Org 组织层: Template Library, Version + Review
 
----
-## Product Hunt Copy (copy-paste)
-**Tagline:** Baseline-first Agent System - Stop chasing prompts, start anchoring systems.
+### Quick Start / 快速开始
 
-**Description:** BASELINE AGENT SYSTEM turns prompt tricks into a stable system. Define your baseline once, let the loop run, check, rollback, retune. Built for makers who want to ship far, not just fast.
+1. Download templates/Baseline_3Layers_Template.xlsx
+2. Download templates/Baseline_7Day_Test_Checkin.xlsx
+3. Run 7-Day Test: Score Work / Learning / Life (1-5 daily)
+4. Improve 10% weekly.
 
-**First Comment:** Hey PH! I built this after watching loops drift for months... The anchor is a file, not a model. Would love your feedback on the RETUNERBILITY idea.
+### Proof / 证据
+
+5x cannot stat -> 0 Reset -> 1 Successful Push 2737411..4e13624 main -> main
