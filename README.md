@@ -28,3 +28,19 @@ GitHub: https://github.com/gogptsss/baseline-agent-system
 
 ## License
 MIT License
+## 3 Layers / 3 层
+
+- Personal 个人层: 3 Tasks, Fixed Template
+- Team 团队层: Common + Personal
+- Org 组织层: Template Library, Version + Review
+
+## Scoring / 评分标准
+
+1 = No action, 2 = Started, 3 = Done, 4 = Done well, 5 = Done + Improved
+Example: Day 1 - Work 3, Learning 4, Life 2
+
+## 10% Calculation / 10% 怎么算
+
+Weekly Score = (Work + Learning + Life) / 3
+Week 2 Target = Week 1 Score * 1.1
+Example: Week 1 avg 3.0 -> Week 2 target 3.3
