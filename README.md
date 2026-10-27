@@ -1,21 +1,30 @@
-# 光譜螺旋 × 劉慈欣AI宣言 - 有聲電子讀物
+# BAS | Baseline Agent System | 定锚系统
 
-## Spectrum Spiral x Liu Cixin - Interactive Audio E-Book
+[[Product Hunt](https://www.producthunt.com/posts/baseline-agent-system)]
 
-GitHub: https://github.com/gogptsss/spectrum-spiral-liu-cixin
-Live: https://gogptsss.github.io/spectrum-spiral-liu-cixin/
+**Anchor on System, Not on Luck. / 定锚，不是靠运气，是靠系统。**
 
-非會員前10頁試讀，會員一鍵下載 PPTX+Word+PDF
+> Stop Resetting. Start Retuning.
 
-## 訂閱
-- 月度 NT$20 / 月
-- 年度 NT$199 / 年 省40%
-- 一次性 NT$999 Lifetime
+## BAS = RETUNABILITY
 
-USDT: 0x05761494aff5128365373920470c53dd4954b5
+**RETUNABILITY (RE + TUNER + ABILITY) = RETURNABILITY + TUNABILITY**
+**可再调 = 可回返 + 可调参，回到基线 + 微调 1 点 + 重新进入，永不重置**
 
-## 一鍵推送
-```bash
-chmod +x deploy.sh
-./deploy.sh
-```
+## 4 Principles
+
+Consistency 一致性 | Reversibility 可回滚 | RETUNABILITY 可再调 | Zero Reset 零重置
+
+## Quick Start
+
+1. Download templates/Baseline_3Layers_Template.xlsx
+2. Run 7-Day Test, score 1-5 daily, improve 10% weekly
+
+## Links
+
+Website: https://gogptsss.github.io/baseline-agent-system/
+Product Hunt: https://www.producthunt.com/products/bas-baseline-agent-system
+GitHub: https://github.com/gogptsss/baseline-agent-system
+
+## License
+MIT License
