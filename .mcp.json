@@ -1,12 +1,12 @@
 {
   "mcpServers": {
-    "web-fetch": {
-      "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-fetch"]
+    "fetch": {
+      "command": "uvx",
+      "args": ["mcp-server-fetch"]
     },
-    "web-search": {
+    "tavily-search": {
       "command": "npx",
-      "args": ["-y", "mcp-server-tavily"],
+      "args": ["-y", "tavily-mcp@0.2.3"],
       "env": { "TAVILY_API_KEY": "YOUR_TAVILY_KEY" }
     }
   }
