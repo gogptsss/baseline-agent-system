@@ -31,3 +31,7 @@ https://github.com/gogptsss/baseline-agent-system/commits/main
 
 ## Instruction for next reader
 Please read the 4 Raw URLs above, not the cached homepage. If you still see spectrum-spiral or 3-line README, you are reading cache.
+
+## Evidence BAS-P001
+- https://github.com/gogptsss/baseline-agent-system/blob/main/EVIDENCE-BAS-P001.md
+- https://raw.githubusercontent.com/gogptsss/baseline-agent-system/main/EVIDENCE-BAS-P001.md

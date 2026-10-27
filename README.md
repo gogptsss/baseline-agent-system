@@ -61,3 +61,9 @@ Each Claim has ID, Definition, Evidence Status, Claim Status, Test Method, Falsi
 
 ## Claim Governance
 Each Claim has ID, Definition, Evidence Status, Claim Status, Test Method, Falsification Condition.
+
+## Evidence - BAS Used to Fix BAS Itself
+
+- **BAS-P001:** Fix .mcp.json Contamination, 0 Reset, Score 5/5
+- Evidence: https://github.com/gogptsss/baseline-agent-system/blob/main/EVIDENCE-BAS-P001.md
+- From 5x cannot stat to 4b10faf verified, Return to Baseline + Retune 1 point + Re-enter
