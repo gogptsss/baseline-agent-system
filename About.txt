@@ -1,8 +1,0 @@
-About - Copy to GitHub About:
-
-Anchor on System, Not on Luck.
-Consistency, Reversibility, RETUNABILITY, Zero Reset.
-Stop Resetting. Start Retuning.
-
-Website: https://gogptsss.github.io/baseline-agent-system/ or your Cloudflare Pages URL
-Topics: baseline, agent-system, retunability, prompt-template, reproducibility
