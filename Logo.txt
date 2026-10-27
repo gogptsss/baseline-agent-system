@@ -1,0 +1,19 @@
+LOGO 文案 - BAS 版
+
+Main Logo:
+BAS
+Baseline Agent System
+定锚系统
+
+Slogan:
+Anchor on System, Not on Luck.
+定锚，不是靠运气，是靠系统。
+
+Badge:
+BAS - RETUNABILITY
+可再调 = 可回返 + 可调参
+
+Social Preview Text (1280x640):
+BAS
+Anchor on System, Not on Luck.
+Consistency | Reversibility | RETUNABILITY | Zero Reset
