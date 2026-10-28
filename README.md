@@ -67,3 +67,8 @@ Each Claim has ID, Definition, Evidence Status, Claim Status, Test Method, Falsi
 - **BAS-P001:** Fix .mcp.json Contamination, 0 Reset, Score 5/5
 - Evidence: https://github.com/gogptsss/baseline-agent-system/blob/main/EVIDENCE-BAS-P001.md
 - From 5x cannot stat to 4b10faf verified, Return to Baseline + Retune 1 point + Re-enter
+
+## Live Demos
+- GitHub Pages (simple): https://gogptsss.github.io/baseline-agent-system/
+- Cloudflare Pages (full): https://baseline-agent-system.pages.dev
+- Mirror (full): https://mweb.us.ci/
