@@ -28,3 +28,8 @@ BAS-P001: Fix .mcp.json pollution, return to BAS baseline, 0 Reset.
 ## Result
 0 Reset, 1 Retune, Re-enter Success.
 From 5x cannot stat to 4b10faf verified.
+
+## Update
+- Initial fix (4b10faf): root .mcp.json cleaned
+- Follow-up fix (bas-fix): mcp/mcp.json also cleaned, MCP-GUIDE corrected
+- Status: Fully cleaned after bas-fix, not just root.

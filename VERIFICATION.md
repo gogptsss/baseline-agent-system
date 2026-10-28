@@ -35,3 +35,7 @@ Please read the 4 Raw URLs above, not the cached homepage. If you still see spec
 ## Evidence BAS-P001
 - https://github.com/gogptsss/baseline-agent-system/blob/main/EVIDENCE-BAS-P001.md
 - https://raw.githubusercontent.com/gogptsss/baseline-agent-system/main/EVIDENCE-BAS-P001.md
+
+## Update
+- HEAD now includes bas-fix: mcp/mcp.json cleaned, MCP-GUIDE fixed
+- Latest verified: git show HEAD:mcp/mcp.json = mcpServers
