@@ -43,25 +43,6 @@ MIT License Copyright (c) 2026 gogptsss
 ## Claim Governance
 Each Claim has ID, Definition, Evidence Status, Claim Status, Test Method, Falsification Condition.
 
-## 3 Layers - From Meaning Intelligence v0.2.0
-
-### Personal 个人层
-- Record: 3 Tasks, each with Claim ID (e.g. BAS-P001)
-- Score: 1-5, Evidence E0-E6
-- Rule: Retune 1 point per day
-
-### Team 团队层
-- Record: Common Claim Registry, Status Draft / Under Test / Survived / Falsified
-- Rule: If fails threshold, mark or delete, do not defend
-
-### Org 组织层
-- Record: VERSION.yaml as Single Version Source
-- Canon V7.0 / Research v0.2.0 / Stack v2.0 / White Paper v1.1
-- Rule: Any version change only in VERSION.yaml
-
-## Claim Governance
-Each Claim has ID, Definition, Evidence Status, Claim Status, Test Method, Falsification Condition.
-
 ## Evidence - BAS Used to Fix BAS Itself
 
 - **BAS-P001:** Fix .mcp.json Contamination, 0 Reset, Score 5/5
