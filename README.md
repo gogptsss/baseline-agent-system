@@ -6,6 +6,20 @@
 
 > Stop Resetting. Start Retuning.
 
+
+## Current implementation and evidence boundaries
+
+The website is a browser-side concept demo. It does not connect to or control a live AI agent, model, external tool, or organization workflow. Interactive outputs are illustrative and must not be treated as empirical results.
+
+- Topology: a browser animation; the export is a single PNG frame, not an animated GIF.
+- Cognitive OS: preset demo values and self-assessment sliders; not a validated cognitive measurement.
+- RAC: a local state-machine simulation; it does not suspend or roll back external agent actions.
+- Z Scale: an unvalidated self-report demo; answers and exports stay in browser memory/local files and are not a research dataset.
+- Cross-scale governance: six illustrative levels (W0–W5) with a fixed display formula; not empirically calibrated.
+- Paper: a concept note, not peer reviewed. The listed references are unverified because no DOI or stable source links are supplied. This repository does not provide independent experimental validation of the method.
+
+The six illustrative levels are: W0 Individual, W1 Organization, W2 Society, W3 Civilization, W4 Cosmos, and W5 Cross-scale. The website's three Personal/Team/Organization layers describe a separate workflow structure; they are not the same scale model.
+
 ## BAS = RETUNABILITY
 
 **RETUNABILITY (RE + TUNE + ABILITY) = RETURNABILITY + TUNABILITY**
